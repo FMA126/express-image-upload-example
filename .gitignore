@@ -96,6 +96,7 @@ jspm_packages
 
 # Environmental variables
 .env
+accessKeys.csv
 
 # End of https://www.gitignore.io/api/node
 *.bak
@@ -179,7 +180,6 @@ pickle-email-*.html
 # dotenv
 # TODO Comment out this rule if environment variables can be committed
 .env
-accessKeys.csv
 
 ## Environment normalization:
 /.bundle
